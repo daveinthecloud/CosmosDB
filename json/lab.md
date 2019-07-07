@@ -36,4 +36,4 @@ In this lab, you modify JSON to output to the browser console.
 
 1. Change the script so that the console displays **Tuesday**.
 
-    ![Tuesday](json/tuesday.jpg)
+    ![Tuesday](../json/tuesday.jpg)
