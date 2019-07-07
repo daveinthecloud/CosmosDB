@@ -24,9 +24,9 @@ In this lab, you modify JSON to output to the browser console.
 
 1. You should see the following
 
-    ![output](json/output1.jpg)
+    ![output](../json/output1.jpg)
     
-    ![output](json/output2.jpg)    
+    ![output](../json/output2.jpg)    
     
 ### Modify the output
 
