@@ -16,7 +16,7 @@ In this lab, you modify JSON to output to the browser console.
 
 1. Add the following script to the file.
 
-    ![json script](json/script1.jpg)
+    ![json script](../json/script1.jpg)
 
 1. Save the file
 
@@ -32,7 +32,7 @@ In this lab, you modify JSON to output to the browser console.
 
 1. Change the script so that the console displays the address.
 
-    ![address](json/address.jpg)
+    ![address](https://raw.githubusercontent.com/daveinthecloud/CosmosDB/master/json/address.jpg)
 
 1. Change the script so that the console displays **Tuesday**.
 
